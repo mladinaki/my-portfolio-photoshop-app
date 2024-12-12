@@ -3,7 +3,7 @@ import ProductItem from "./productItem";
 
 import * as projectService from "../services/projectService";
 
-function getDate() {
+export function getDate() {
     const today = new Date();
     const date = today.getDate();
     const month = today.getMonth() + 1;

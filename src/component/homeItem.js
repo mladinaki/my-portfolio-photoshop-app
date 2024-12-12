@@ -6,8 +6,6 @@ import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a lo
 //React boostrap//
 
 const ProductItems = () => {
-
-
     return (
         <div className="content_site">
 
